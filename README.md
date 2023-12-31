@@ -84,3 +84,10 @@
     <a href="https://www.linkedin.com/in/christian-bennett-4a79a3191/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" height="30" width="40"></a>
   </p>
 
+  ---
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazzyspring&show_icons=true&locale=en&layout=compact" alt="lazzyspring" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazzyspring&show_icons=true&locale=en" alt="lazzyspring" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazzyspring&" alt="lazzyspring" /></p>
