@@ -84,9 +84,3 @@
     <a href="https://www.linkedin.com/in/christian-bennett-4a79a3191/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" height="30" width="40"></a>
   </p>
 
-  ---
-
-  <h3 align="center">Stats</h3>
-
-  [![Discord Presence](https://lanyard.cnrad.dev/api/890462974576295978)](https://discord.com/users/890462974576295978)
-
